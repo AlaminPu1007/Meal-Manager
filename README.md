@@ -18,3 +18,8 @@ This is a react-native base application with node js backeend, mysql database an
 
 Google play store, link: https://play.google.com/store/apps/details?id=com.messmanager
 (1k+ downloaded)
+
+# To run this project
+on this project directory
+1) npm install
+2) npm react-native run-android/npm react-native run-ios
