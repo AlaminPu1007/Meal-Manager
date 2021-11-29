@@ -17,3 +17,4 @@ Meal Manager is an online based mobile application which will help you to track 
 This is a react-native base application with node js backeend, mysql database and Amazon S3 bucket(for storing image).
 
 Google play store, link: https://play.google.com/store/apps/details?id=com.messmanager
+(1k+ downloaded)
